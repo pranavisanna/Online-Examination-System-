@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040311
+# Name: Pranavi S
+# Date: 01/09/26
 
 
 # AIM:
@@ -21,6 +21,7 @@ To develop the Online Examination System using Star UML.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+<img width="821" height="676" alt="image" src="https://github.com/user-attachments/assets/f9a7f822-7765-49bb-97f9-dde96d265f65" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -44,6 +45,8 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+<img width="1083" height="713" alt="image" src="https://github.com/user-attachments/assets/6190b856-7e03-4d3c-b0e0-dda58de0fdb8" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -60,6 +63,8 @@ Create detailed charts that…
 
 
 # COMMUNICTION DIAGRAM:
+<img width="935" height="760" alt="image" src="https://github.com/user-attachments/assets/de4aa122-b14a-41af-a4a5-ae345d9d29d2" />
+
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -69,6 +74,8 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+<img width="983" height="692" alt="image" src="https://github.com/user-attachments/assets/635d402d-abf5-46ca-a443-0136ef2fd1bf" />
+
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -84,6 +91,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 # ACTIVITY DIAGRAM:
+<img width="796" height="905" alt="image" src="https://github.com/user-attachments/assets/59d5b817-8aab-4019-93fc-9c87f5c6d039" />
+
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
